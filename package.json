@@ -15,16 +15,8 @@
       "test/*test.js"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tracy-Wei/area-code-list"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/datasets/country-list/issues"
-  },
-  "homepage": "https://github.com/Tracy-Wei/area-code-list#readme",
   "devDependencies": {
     "ava": "^0.24.0",
     "papaparse": "^4.6.0",
