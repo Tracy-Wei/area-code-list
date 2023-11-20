@@ -32,7 +32,7 @@ export default {
   getCountryByCode: (code) => codeToCountry[code],
   getCountryByName: (name) => nameToCountry[name],
   getCountries: () => countries,
-  getCountriesByShortCodes: (short) => shortToCountry[short],
+  getCountriesByShortName: (short) => shortToCountry[short],
   getEnToCountry: (en) => enToCountry[en],
   getGroupEnToCountry: (groupEn) => groupEnToCountry[groupEn],
   getGroupCnToCountry: (groupCn) => groupCnToCountry[groupCn],

@@ -1,85 +1,63 @@
-#### Important, commonly-used datasets in high quality, easy-to-use & open form as data packages
-
-ISO 3166-1-alpha-2 English country names and code elements. This list states
-the country names (official short names in English) in alphabetical order as
-given in [ISO 3166-1][] and the corresponding ISO 3166-1-alpha-2 code elements.
-
-[ISO 3166-1]: http://www.iso.org/iso/home/standards/country_codes.htm
-
-This list is updated whenever a change to the official code list in ISO 3166-1
-is effected by the ISO 3166/MA.
-
-It lists 250 official short names and code elements as of Dec 2012.
-
-## Contents
-
-- [Install](#install)
-- [Usage](#usage)
-- [License](#license)
-
-## Install 
+## Install
 
 ```
-npm install @datasets/country-list
+npm install area-code-list
+```
+
+```
+yarn add area-code-list
 ```
 
 ## Usage
 
 ```
-const countries = require('@datasets/country-list');
+import countries from "area-code-list";
 ```
-
 
 ### Get name of the country
 
 ```js
-name = countries.getName('GB')
+name = countries.getCountryByName("阿富汗");
 ```
 
 ### Get code of the country
 
 ```js
-code = countries.getCode('Great Britain')
+code = countries.getCountryByCode("+93");
 ```
 
 ### Get list of all country names
 
 ```js
-names = countries.getNames()
+names = countries.getCountries();
 ```
-### Get list of all country codes
+
+---
+
+### Get name of the ShortName
 
 ```js
-codes = countries.getCodes()
+name = countries.getCountriesByShortName("AF");
 ```
 
-### Get a key-value object of all countries using the name as key.
+### Get code of the En
 
 ```js
-countryList = countries.getNameList()
+code = countries.getEnToCountry("Afghanistan");
 ```
 
-### Get a key-value object of all countries using the code as key.
+### Get list of all GroupEn
 
 ```js
-countryList = countries.getCodeList()
+names = countries.getGroupEnToCountry("A");
 ```
 
-## License
+### Get list of all GroupCn
 
-This material is licensed by its maintainers under the Public Domain Dedication
-and License.
+```js
+names = countries.getGroupCnToCountry("A");
+```
 
-Nevertheless, it should be noted that this material is ultimately sourced from
-ISO and their rights and licensing policy is somewhat unclear. As this is a
-short, simple database of facts there is a strong argument that no rights can
-subsist in this collection. However, ISO state on [their
-site](http://www.iso.org/iso/home/standards/country_codes.htm): 
+### Inspired by 灵感来自
 
-> ISO makes the list of alpha-2 country codes available for internal use and
-> non-commercial purposes free of charge. 
-
-This carries the implication (though not spelled out) that other uses are not
-permitted and that, therefore, there may be rights preventing further general
-use and reuse.
-
+- @datasets/country-list
