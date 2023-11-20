@@ -7,6 +7,7 @@ const shortToCountry = {};
 const enToCountry = {};
 const groupEnToCountry = {};
 const groupCnToCountry = [];
+const countries = [];
 
 countryList.forEach((obj) => {
   const country = {
