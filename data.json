@@ -1,7 +1,7 @@
 [
   {
     "short": "AD",
-    "name": "安道尔共和国",
+    "name": "安道爾共和國",
     "en": "Andorra",
     "code": "+376",
     "groupEn": "A",
@@ -9,7 +9,7 @@
   },
   {
     "short": "AE",
-    "name": "阿拉伯联合酋长国",
+    "name": "阿拉伯聯合酋長國",
     "en": "UnitedArabEmirates",
     "code": "+971",
     "groupEn": "A",
@@ -25,7 +25,7 @@
   },
   {
     "short": "AG",
-    "name": "安提瓜和巴布达",
+    "name": "安提瓜和巴佈達",
     "en": "AntiguaandBarbuda",
     "code": "+1268",
     "groupEn": "A",
@@ -33,7 +33,7 @@
   },
   {
     "short": "AI",
-    "name": "安圭拉岛",
+    "name": "安圭拉島",
     "en": "Anguilla",
     "code": "+1264",
     "groupEn": "A",
@@ -41,7 +41,7 @@
   },
   {
     "short": "AL",
-    "name": "阿尔巴尼亚",
+    "name": "阿爾巴尼亞",
     "en": "Albania",
     "code": "+355",
     "groupEn": "A",
@@ -49,7 +49,7 @@
   },
   {
     "short": "AM",
-    "name": "亚美尼亚",
+    "name": "亞美尼亞",
     "en": "Armenia",
     "code": "+374",
     "groupEn": "A",
@@ -57,7 +57,7 @@
   },
   {
     "short": "",
-    "name": "阿森松",
+    "name": "阿森鬆",
     "en": "Ascension",
     "code": "+247",
     "groupEn": "A",
@@ -81,7 +81,7 @@
   },
   {
     "short": "AT",
-    "name": "奥地利",
+    "name": "奧地利",
     "en": "Austria",
     "code": "+43",
     "groupEn": "A",
@@ -89,7 +89,7 @@
   },
   {
     "short": "AU",
-    "name": "澳大利亚",
+    "name": "澳大利亞",
     "en": "Australia",
     "code": "+61",
     "groupEn": "A",
@@ -113,7 +113,7 @@
   },
   {
     "short": "BD",
-    "name": "孟加拉国",
+    "name": "孟加拉國",
     "en": "Bangladesh",
     "code": "+880",
     "groupEn": "B",
@@ -121,7 +121,7 @@
   },
   {
     "short": "BE",
-    "name": "比利时",
+    "name": "比利時",
     "en": "Belgium",
     "code": "+32",
     "groupEn": "B",
@@ -129,7 +129,7 @@
   },
   {
     "short": "BF",
-    "name": "布基纳法索",
+    "name": "佈基納法索",
     "en": "Burkina-faso",
     "code": "+226",
     "groupEn": "B",
@@ -137,7 +137,7 @@
   },
   {
     "short": "BG",
-    "name": "保加利亚",
+    "name": "保加利亞",
     "en": "Bulgaria",
     "code": "+359",
     "groupEn": "B",
@@ -153,7 +153,7 @@
   },
   {
     "short": "BI",
-    "name": "布隆迪",
+    "name": "佈隆迪",
     "en": "Burundi",
     "code": "+257",
     "groupEn": "B",
@@ -161,7 +161,7 @@
   },
   {
     "short": "BJ",
-    "name": "贝宁",
+    "name": "貝甯",
     "en": "Benin",
     "code": "+229",
     "groupEn": "B",
@@ -177,7 +177,7 @@
   },
   {
     "short": "BM",
-    "name": "百慕大群岛",
+    "name": "百慕大群島",
     "en": "BermudaIs.",
     "code": "+1441",
     "groupEn": "B",
@@ -185,7 +185,7 @@
   },
   {
     "short": "BN",
-    "name": "文莱",
+    "name": "文萊",
     "en": "Brunei",
     "code": "+673",
     "groupEn": "B",
@@ -193,7 +193,7 @@
   },
   {
     "short": "BO",
-    "name": "玻利维亚",
+    "name": "玻利維亞",
     "en": "Bolivia",
     "code": "+591",
     "groupEn": "B",
@@ -209,7 +209,7 @@
   },
   {
     "short": "BS",
-    "name": "巴哈马",
+    "name": "巴哈馬",
     "en": "Bahamas",
     "code": "+1242",
     "groupEn": "B",
@@ -217,7 +217,7 @@
   },
   {
     "short": "BW",
-    "name": "博茨瓦纳",
+    "name": "博茨瓦納",
     "en": "Botswana",
     "code": "+267",
     "groupEn": "B",
@@ -225,7 +225,7 @@
   },
   {
     "short": "BY",
-    "name": "白俄罗斯",
+    "name": "白俄羅斯",
     "en": "Belarus",
     "code": "+375",
     "groupEn": "B",
@@ -233,7 +233,7 @@
   },
   {
     "short": "BZ",
-    "name": "伯利兹",
+    "name": "伯利茲",
     "en": "Belize",
     "code": "+501",
     "groupEn": "B",
@@ -249,7 +249,7 @@
   },
   {
     "short": "",
-    "name": "开曼群岛",
+    "name": "開曼群島",
     "en": "CaymanIs.",
     "code": "+1345",
     "groupEn": "C",
@@ -257,7 +257,7 @@
   },
   {
     "short": "CF",
-    "name": "中非共和国",
+    "name": "中非共和國",
     "en": "CentralAfricanRepublic",
     "code": "+236",
     "groupEn": "C",
@@ -265,7 +265,7 @@
   },
   {
     "short": "CG",
-    "name": "刚果",
+    "name": "剛果",
     "en": "Congo",
     "code": "+242",
     "groupEn": "C",
@@ -281,7 +281,7 @@
   },
   {
     "short": "CK",
-    "name": "库克群岛",
+    "name": "庫克群島",
     "en": "CookIs.",
     "code": "+682",
     "groupEn": "C",
@@ -297,7 +297,7 @@
   },
   {
     "short": "CM",
-    "name": "喀麦隆",
+    "name": "喀麥隆",
     "en": "Cameroon",
     "code": "+237",
     "groupEn": "C",
@@ -305,7 +305,7 @@
   },
   {
     "short": "CN",
-    "name": "中国",
+    "name": "中國",
     "en": "China",
     "code": "+86",
     "groupEn": "C",
@@ -313,7 +313,7 @@
   },
   {
     "short": "CO",
-    "name": "哥伦比亚",
+    "name": "哥倫比亞",
     "en": "Colombia",
     "code": "+57",
     "groupEn": "C",
@@ -321,7 +321,7 @@
   },
   {
     "short": "CR",
-    "name": "哥斯达黎加",
+    "name": "哥斯達黎加",
     "en": "CostaRica",
     "code": "+506",
     "groupEn": "C",
@@ -353,7 +353,7 @@
   },
   {
     "short": "DE",
-    "name": "德国",
+    "name": "德國",
     "en": "Germany",
     "code": "+49",
     "groupEn": "D",
@@ -361,7 +361,7 @@
   },
   {
     "short": "DJ",
-    "name": "吉布提",
+    "name": "吉佈提",
     "en": "Djibouti",
     "code": "+253",
     "groupEn": "D",
@@ -369,7 +369,7 @@
   },
   {
     "short": "DK",
-    "name": "丹麦",
+    "name": "丹麥",
     "en": "Denmark",
     "code": "+45",
     "groupEn": "D",
@@ -377,7 +377,7 @@
   },
   {
     "short": "DO",
-    "name": "多米尼加共和国",
+    "name": "多米尼加共和國",
     "en": "DominicaRep.",
     "code": "+1890",
     "groupEn": "D",
@@ -385,7 +385,7 @@
   },
   {
     "short": "DZ",
-    "name": "阿尔及利亚",
+    "name": "阿爾及利亞",
     "en": "Algeria",
     "code": "+213",
     "groupEn": "D",
@@ -393,7 +393,7 @@
   },
   {
     "short": "EC",
-    "name": "厄瓜多尔",
+    "name": "厄瓜多爾",
     "en": "Ecuador",
     "code": "+593",
     "groupEn": "E",
@@ -401,7 +401,7 @@
   },
   {
     "short": "EE",
-    "name": "爱沙尼亚",
+    "name": "愛沙尼亞",
     "en": "Estonia",
     "code": "+372",
     "groupEn": "E",
@@ -425,7 +425,7 @@
   },
   {
     "short": "ET",
-    "name": "埃塞俄比亚",
+    "name": "埃塞俄比亞",
     "en": "Ethiopia",
     "code": "+251",
     "groupEn": "E",
@@ -433,7 +433,7 @@
   },
   {
     "short": "FI",
-    "name": "芬兰",
+    "name": "芬蘭",
     "en": "Finland",
     "code": "+358",
     "groupEn": "F",
@@ -441,7 +441,7 @@
   },
   {
     "short": "FJ",
-    "name": "斐济",
+    "name": "斐濟",
     "en": "Fiji",
     "code": "+679",
     "groupEn": "F",
@@ -449,7 +449,7 @@
   },
   {
     "short": "FR",
-    "name": "法国",
+    "name": "法國",
     "en": "France",
     "code": "+33",
     "groupEn": "F",
@@ -465,7 +465,7 @@
   },
   {
     "short": "GB",
-    "name": "英国",
+    "name": "英國",
     "en": "UnitedKiongdom",
     "code": "+44",
     "groupEn": "G",
@@ -473,7 +473,7 @@
   },
   {
     "short": "GD",
-    "name": "格林纳达",
+    "name": "格林納達",
     "en": "Grenada",
     "code": "+1809",
     "groupEn": "G",
@@ -481,7 +481,7 @@
   },
   {
     "short": "GE",
-    "name": "格鲁吉亚",
+    "name": "格魯吉亞",
     "en": "Georgia",
     "code": "+995",
     "groupEn": "G",
@@ -489,7 +489,7 @@
   },
   {
     "short": "GF",
-    "name": "法属圭亚那",
+    "name": "法屬圭亞那",
     "en": "FrenchGuiana",
     "code": "+594",
     "groupEn": "G",
@@ -497,7 +497,7 @@
   },
   {
     "short": "GH",
-    "name": "加纳",
+    "name": "加納",
     "en": "Ghana",
     "code": "+233",
     "groupEn": "G",
@@ -505,7 +505,7 @@
   },
   {
     "short": "GI",
-    "name": "直布罗陀",
+    "name": "直佈羅陀",
     "en": "Gibraltar",
     "code": "+350",
     "groupEn": "G",
@@ -513,7 +513,7 @@
   },
   {
     "short": "GM",
-    "name": "冈比亚",
+    "name": "岡比亞",
     "en": "Gambia",
     "code": "+220",
     "groupEn": "G",
@@ -521,7 +521,7 @@
   },
   {
     "short": "GN",
-    "name": "几内亚",
+    "name": "幾內亞",
     "en": "Guinea",
     "code": "+224",
     "groupEn": "G",
@@ -529,7 +529,7 @@
   },
   {
     "short": "GR",
-    "name": "希腊",
+    "name": "希臘",
     "en": "Greece",
     "code": "+30",
     "groupEn": "G",
@@ -537,7 +537,7 @@
   },
   {
     "short": "GT",
-    "name": "危地马拉",
+    "name": "危地馬拉",
     "en": "Guatemala",
     "code": "+502",
     "groupEn": "G",
@@ -545,7 +545,7 @@
   },
   {
     "short": "GU",
-    "name": "关岛",
+    "name": "關島",
     "en": "Guam",
     "code": "+1671",
     "groupEn": "G",
@@ -553,7 +553,7 @@
   },
   {
     "short": "GY",
-    "name": "圭亚那",
+    "name": "圭亞那",
     "en": "Guyana",
     "code": "+592",
     "groupEn": "G",
@@ -561,7 +561,7 @@
   },
   {
     "short": "HK",
-    "name": "中国香港",
+    "name": "中國香港",
     "en": "Hongkong",
     "code": "+852",
     "groupEn": "H",
@@ -593,7 +593,7 @@
   },
   {
     "short": "ID",
-    "name": "印度尼西亚",
+    "name": "印度尼西亞",
     "en": "Indonesia",
     "code": "+62",
     "groupEn": "I",
@@ -601,7 +601,7 @@
   },
   {
     "short": "IE",
-    "name": "爱尔兰",
+    "name": "愛爾蘭",
     "en": "Ireland",
     "code": "+353",
     "groupEn": "I",
@@ -641,7 +641,7 @@
   },
   {
     "short": "IS",
-    "name": "冰岛",
+    "name": "冰島",
     "en": "Iceland",
     "code": "+354",
     "groupEn": "I",
@@ -665,7 +665,7 @@
   },
   {
     "short": "JM",
-    "name": "牙买加",
+    "name": "牙買加",
     "en": "Jamaica",
     "code": "+1876",
     "groupEn": "J",
@@ -673,7 +673,7 @@
   },
   {
     "short": "JO",
-    "name": "约旦",
+    "name": "約旦",
     "en": "Jordan",
     "code": "+962",
     "groupEn": "J",
@@ -689,7 +689,7 @@
   },
   {
     "short": "KE",
-    "name": "肯尼亚",
+    "name": "肯尼亞",
     "en": "Kenya",
     "code": "+254",
     "groupEn": "K",
@@ -697,7 +697,7 @@
   },
   {
     "short": "KG",
-    "name": "吉尔吉斯坦",
+    "name": "吉爾吉斯坦",
     "en": "Kyrgyzstan",
     "code": "+331",
     "groupEn": "K",
@@ -713,7 +713,7 @@
   },
   {
     "short": "KP",
-    "name": "朝鲜",
+    "name": "朝鮮",
     "en": "NorthKorea",
     "code": "+850",
     "groupEn": "K",
@@ -721,7 +721,7 @@
   },
   {
     "short": "KR",
-    "name": "韩国",
+    "name": "韓國",
     "en": "Korea",
     "code": "+82",
     "groupEn": "K",
@@ -729,7 +729,7 @@
   },
   {
     "short": "KT",
-    "name": "科特迪瓦共和国",
+    "name": "科特迪瓦共和國",
     "en": "RepublicofIvoryCoast",
     "code": "+225",
     "groupEn": "K",
@@ -745,7 +745,7 @@
   },
   {
     "short": "KZ",
-    "name": "哈萨克斯坦",
+    "name": "哈薩克斯坦",
     "en": "Kazakstan",
     "code": "+327",
     "groupEn": "K",
@@ -753,7 +753,7 @@
   },
   {
     "short": "LA",
-    "name": "老挝",
+    "name": "老撾",
     "en": "Laos",
     "code": "+856",
     "groupEn": "L",
@@ -769,7 +769,7 @@
   },
   {
     "short": "LC",
-    "name": "圣卢西亚",
+    "name": "聖盧西亞",
     "en": "St.Lucia",
     "code": "+1758",
     "groupEn": "L",
@@ -785,7 +785,7 @@
   },
   {
     "short": "LK",
-    "name": "斯里兰卡",
+    "name": "斯裏蘭卡",
     "en": "SriLanka",
     "code": "+94",
     "groupEn": "L",
@@ -793,7 +793,7 @@
   },
   {
     "short": "LR",
-    "name": "利比里亚",
+    "name": "利比裏亞",
     "en": "Liberia",
     "code": "+231",
     "groupEn": "L",
@@ -801,7 +801,7 @@
   },
   {
     "short": "LS",
-    "name": "莱索托",
+    "name": "萊索托",
     "en": "Lesotho",
     "code": "+266",
     "groupEn": "L",
@@ -817,7 +817,7 @@
   },
   {
     "short": "LU",
-    "name": "卢森堡",
+    "name": "盧森堡",
     "en": "Luxembourg",
     "code": "+352",
     "groupEn": "L",
@@ -825,7 +825,7 @@
   },
   {
     "short": "LV",
-    "name": "拉脱维亚",
+    "name": "拉脫維亞",
     "en": "Latvia",
     "code": "+371",
     "groupEn": "L",
@@ -833,7 +833,7 @@
   },
   {
     "short": "LY",
-    "name": "利比亚",
+    "name": "利比亞",
     "en": "Libya",
     "code": "+218",
     "groupEn": "L",
@@ -849,7 +849,7 @@
   },
   {
     "short": "MC",
-    "name": "摩纳哥",
+    "name": "摩納哥",
     "en": "Monaco",
     "code": "+377",
     "groupEn": "M",
@@ -857,7 +857,7 @@
   },
   {
     "short": "MD",
-    "name": "摩尔多瓦",
+    "name": "摩爾多瓦",
     "en": "Moldova,Republicof",
     "code": "+373",
     "groupEn": "M",
@@ -865,7 +865,7 @@
   },
   {
     "short": "MG",
-    "name": "马达加斯加",
+    "name": "馬達加斯加",
     "en": "Madagascar",
     "code": "+261",
     "groupEn": "M",
@@ -873,7 +873,7 @@
   },
   {
     "short": "ML",
-    "name": "马里",
+    "name": "馬裏",
     "en": "Mali",
     "code": "+223",
     "groupEn": "M",
@@ -881,7 +881,7 @@
   },
   {
     "short": "MM",
-    "name": "缅甸",
+    "name": "緬甸",
     "en": "Burma",
     "code": "+95",
     "groupEn": "M",
@@ -897,7 +897,7 @@
   },
   {
     "short": "MO",
-    "name": "中国澳门",
+    "name": "中國澳門",
     "en": "Macao",
     "code": "+853",
     "groupEn": "M",
@@ -905,7 +905,7 @@
   },
   {
     "short": "MS",
-    "name": "蒙特塞拉特岛",
+    "name": "蒙特塞拉特島",
     "en": "MontserratIs",
     "code": "+1664",
     "groupEn": "M",
@@ -913,7 +913,7 @@
   },
   {
     "short": "MT",
-    "name": "马耳他",
+    "name": "馬耳他",
     "en": "Malta",
     "code": "+356",
     "groupEn": "M",
@@ -921,7 +921,7 @@
   },
   {
     "short": "",
-    "name": "马里亚那群岛",
+    "name": "馬裏亞那群島",
     "en": "MarianaIs",
     "code": "+1670",
     "groupEn": "M",
@@ -929,7 +929,7 @@
   },
   {
     "short": "",
-    "name": "马提尼克",
+    "name": "馬提尼克",
     "en": "Martinique",
     "code": "+596",
     "groupEn": "M",
@@ -937,7 +937,7 @@
   },
   {
     "short": "MU",
-    "name": "毛里求斯",
+    "name": "毛裏求斯",
     "en": "Mauritius",
     "code": "+230",
     "groupEn": "M",
@@ -945,7 +945,7 @@
   },
   {
     "short": "MV",
-    "name": "马尔代夫",
+    "name": "馬爾代夫",
     "en": "Maldives",
     "code": "+960",
     "groupEn": "M",
@@ -953,7 +953,7 @@
   },
   {
     "short": "MW",
-    "name": "马拉维",
+    "name": "馬拉維",
     "en": "Malawi",
     "code": "+265",
     "groupEn": "M",
@@ -969,7 +969,7 @@
   },
   {
     "short": "MY",
-    "name": "马来西亚",
+    "name": "馬來西亞",
     "en": "Malaysia",
     "code": "+60",
     "groupEn": "M",
@@ -985,7 +985,7 @@
   },
   {
     "short": "NA",
-    "name": "纳米比亚",
+    "name": "納米比亞",
     "en": "Namibia",
     "code": "+264",
     "groupEn": "N",
@@ -993,7 +993,7 @@
   },
   {
     "short": "NE",
-    "name": "尼日尔",
+    "name": "尼日爾",
     "en": "Niger",
     "code": "+977",
     "groupEn": "N",
@@ -1001,7 +1001,7 @@
   },
   {
     "short": "NG",
-    "name": "尼日利亚",
+    "name": "尼日利亞",
     "en": "Nigeria",
     "code": "+234",
     "groupEn": "N",
@@ -1017,7 +1017,7 @@
   },
   {
     "short": "NL",
-    "name": "荷兰",
+    "name": "荷蘭",
     "en": "Netherlands",
     "code": "+31",
     "groupEn": "N",
@@ -1033,7 +1033,7 @@
   },
   {
     "short": "NP",
-    "name": "尼泊尔",
+    "name": "尼泊爾",
     "en": "Nepal",
     "code": "+977",
     "groupEn": "N",
@@ -1041,7 +1041,7 @@
   },
   {
     "short": "",
-    "name": "荷属安的列斯",
+    "name": "荷屬安的列斯",
     "en": "NetheriandsAntilles",
     "code": "+599",
     "groupEn": "N",
@@ -1049,7 +1049,7 @@
   },
   {
     "short": "NR",
-    "name": "瑙鲁",
+    "name": "瑙魯",
     "en": "Nauru",
     "code": "+674",
     "groupEn": "N",
@@ -1057,7 +1057,7 @@
   },
   {
     "short": "NZ",
-    "name": "新西兰",
+    "name": "新西蘭",
     "en": "NewZealand",
     "code": "+64",
     "groupEn": "N",
@@ -1073,7 +1073,7 @@
   },
   {
     "short": "PA",
-    "name": "巴拿马",
+    "name": "巴拿馬",
     "en": "Panama",
     "code": "+507",
     "groupEn": "P",
@@ -1081,7 +1081,7 @@
   },
   {
     "short": "PE",
-    "name": "秘鲁",
+    "name": "秘魯",
     "en": "Peru",
     "code": "+51",
     "groupEn": "P",
@@ -1089,7 +1089,7 @@
   },
   {
     "short": "PF",
-    "name": "法属玻利尼西亚",
+    "name": "法屬玻利尼西亞",
     "en": "FrenchPolynesia",
     "code": "+689",
     "groupEn": "P",
@@ -1097,7 +1097,7 @@
   },
   {
     "short": "PG",
-    "name": "巴布亚新几内亚",
+    "name": "巴佈亞新幾內亞",
     "en": "PapuaNewCuinea",
     "code": "+675",
     "groupEn": "P",
@@ -1105,7 +1105,7 @@
   },
   {
     "short": "PH",
-    "name": "菲律宾",
+    "name": "菲律賓",
     "en": "Philippines",
     "code": "+63",
     "groupEn": "P",
@@ -1121,7 +1121,7 @@
   },
   {
     "short": "PL",
-    "name": "波兰",
+    "name": "波蘭",
     "en": "Poland",
     "code": "+48",
     "groupEn": "P",
@@ -1153,7 +1153,7 @@
   },
   {
     "short": "QA",
-    "name": "卡塔尔",
+    "name": "卡塔爾",
     "en": "Qatar",
     "code": "+974",
     "groupEn": "Q",
@@ -1169,7 +1169,7 @@
   },
   {
     "short": "RO",
-    "name": "罗马尼亚",
+    "name": "羅馬尼亞",
     "en": "Romania",
     "code": "+40",
     "groupEn": "R",
@@ -1177,7 +1177,7 @@
   },
   {
     "short": "RU",
-    "name": "俄罗斯",
+    "name": "俄羅斯",
     "en": "Russia",
     "code": "+7",
     "groupEn": "R",
@@ -1193,7 +1193,7 @@
   },
   {
     "short": "SB",
-    "name": "所罗门群岛",
+    "name": "所羅門群島",
     "en": "SolomonIs",
     "code": "+677",
     "groupEn": "S",
@@ -1201,7 +1201,7 @@
   },
   {
     "short": "SC",
-    "name": "塞舌尔",
+    "name": "塞舌爾",
     "en": "Seychelles",
     "code": "+248",
     "groupEn": "S",
@@ -1209,7 +1209,7 @@
   },
   {
     "short": "SD",
-    "name": "苏丹",
+    "name": "蘇丹",
     "en": "Sudan",
     "code": "+249",
     "groupEn": "S",
@@ -1233,7 +1233,7 @@
   },
   {
     "short": "SI",
-    "name": "斯洛文尼亚",
+    "name": "斯洛文尼亞",
     "en": "Slovenia",
     "code": "+386",
     "groupEn": "S",
@@ -1257,7 +1257,7 @@
   },
   {
     "short": "SM",
-    "name": "圣马力诺",
+    "name": "聖馬力諾",
     "en": "SanMarino",
     "code": "+378",
     "groupEn": "S",
@@ -1265,7 +1265,7 @@
   },
   {
     "short": "",
-    "name": "东萨摩亚(美)",
+    "name": "東薩摩亞(美)",
     "en": "SamoaEastern",
     "code": "+684",
     "groupEn": "S",
@@ -1273,7 +1273,7 @@
   },
   {
     "short": "",
-    "name": "西萨摩亚",
+    "name": "西薩摩亞",
     "en": "SanMarino",
     "code": "+685",
     "groupEn": "S",
@@ -1281,7 +1281,7 @@
   },
   {
     "short": "SN",
-    "name": "塞内加尔",
+    "name": "塞內加爾",
     "en": "Senegal",
     "code": "+221",
     "groupEn": "S",
@@ -1289,7 +1289,7 @@
   },
   {
     "short": "SO",
-    "name": "索马里",
+    "name": "索馬裏",
     "en": "Somali",
     "code": "+252",
     "groupEn": "S",
@@ -1297,7 +1297,7 @@
   },
   {
     "short": "SR",
-    "name": "苏里南",
+    "name": "蘇裏南",
     "en": "Suriname",
     "code": "+597",
     "groupEn": "S",
@@ -1305,7 +1305,7 @@
   },
   {
     "short": "ST",
-    "name": "圣多美和普林西比",
+    "name": "聖多美和普林西比",
     "en": "SaoTomeandPrincipe",
     "code": "+239",
     "groupEn": "S",
@@ -1313,7 +1313,7 @@
   },
   {
     "short": "SV",
-    "name": "萨尔瓦多",
+    "name": "薩爾瓦多",
     "en": "EISalvador",
     "code": "+503",
     "groupEn": "S",
@@ -1321,7 +1321,7 @@
   },
   {
     "short": "SY",
-    "name": "叙利亚",
+    "name": "敘利亞",
     "en": "Syria",
     "code": "+963",
     "groupEn": "S",
@@ -1329,7 +1329,7 @@
   },
   {
     "short": "SZ",
-    "name": "斯威士兰",
+    "name": "斯威士蘭",
     "en": "Swaziland",
     "code": "+268",
     "groupEn": "S",
@@ -1353,7 +1353,7 @@
   },
   {
     "short": "TH",
-    "name": "泰国",
+    "name": "泰國",
     "en": "Thailand",
     "code": "+66",
     "groupEn": "T",
@@ -1369,7 +1369,7 @@
   },
   {
     "short": "TM",
-    "name": "土库曼斯坦",
+    "name": "土庫曼斯坦",
     "en": "Turkmenistan",
     "code": "+993",
     "groupEn": "T",
@@ -1385,7 +1385,7 @@
   },
   {
     "short": "TO",
-    "name": "汤加",
+    "name": "湯加",
     "en": "Tonga",
     "code": "+676",
     "groupEn": "T",
@@ -1401,7 +1401,7 @@
   },
   {
     "short": "TT",
-    "name": "特立尼达和多巴哥",
+    "name": "特立尼達和多巴哥",
     "en": "TrinidadandTobago",
     "code": "+1809",
     "groupEn": "T",
@@ -1409,7 +1409,7 @@
   },
   {
     "short": "TW",
-    "name": "中国台湾",
+    "name": "中國臺灣",
     "en": "Taiwan",
     "code": "+886",
     "groupEn": "T",
@@ -1417,7 +1417,7 @@
   },
   {
     "short": "TZ",
-    "name": "坦桑尼亚",
+    "name": "坦桑尼亞",
     "en": "Tanzania",
     "code": "+255",
     "groupEn": "T",
@@ -1425,7 +1425,7 @@
   },
   {
     "short": "UA",
-    "name": "乌克兰",
+    "name": "烏克蘭",
     "en": "Ukraine",
     "code": "+380",
     "groupEn": "U",
@@ -1433,7 +1433,7 @@
   },
   {
     "short": "UG",
-    "name": "乌干达",
+    "name": "烏幹達",
     "en": "Uganda",
     "code": "+256",
     "groupEn": "U",
@@ -1441,7 +1441,7 @@
   },
   {
     "short": "US",
-    "name": "美国",
+    "name": "美國",
     "en": "UnitedStatesofAmerica",
     "code": "+1",
     "groupEn": "U",
@@ -1449,7 +1449,7 @@
   },
   {
     "short": "UY",
-    "name": "乌拉圭",
+    "name": "烏拉圭",
     "en": "Uruguay",
     "code": "+598",
     "groupEn": "U",
@@ -1457,7 +1457,7 @@
   },
   {
     "short": "UZ",
-    "name": "乌兹别克斯坦",
+    "name": "烏茲別克斯坦",
     "en": "Uzbekistan",
     "code": "+233",
     "groupEn": "U",
@@ -1465,7 +1465,7 @@
   },
   {
     "short": "VC",
-    "name": "圣文森特岛",
+    "name": "聖文森特島",
     "en": "SaintVincent",
     "code": "+1784",
     "groupEn": "V",
@@ -1473,7 +1473,7 @@
   },
   {
     "short": "VE",
-    "name": "委内瑞拉",
+    "name": "委內瑞拉",
     "en": "Venezuela",
     "code": "+58",
     "groupEn": "V",
@@ -1489,7 +1489,7 @@
   },
   {
     "short": "YE",
-    "name": "也门",
+    "name": "也門",
     "en": "Yemen",
     "code": "+967",
     "groupEn": "Y",
@@ -1513,7 +1513,7 @@
   },
   {
     "short": "ZM",
-    "name": "赞比亚",
+    "name": "贊比亞",
     "en": "Zambia",
     "code": "+260",
     "groupEn": "Z",
@@ -1521,7 +1521,7 @@
   },
   {
     "short": "ZR",
-    "name": "扎伊尔",
+    "name": "紮伊爾",
     "en": "Zaire",
     "code": "+243",
     "groupEn": "Z",
@@ -1529,7 +1529,7 @@
   },
   {
     "short": "ZW",
-    "name": "津巴布韦",
+    "name": "津巴佈韋",
     "en": "Zimbabwe",
     "code": "+263",
     "groupEn": "Z",
